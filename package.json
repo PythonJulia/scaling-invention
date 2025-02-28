@@ -1,0 +1,12 @@
+{
+  "name": "job-portal",
+  "version": "1.0.0",
+  "description": "A job portal application",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node server/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
